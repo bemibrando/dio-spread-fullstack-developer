@@ -1,0 +1,16 @@
+----- Primeiros passos no desenvolvimento web -----
+AULA 1
+- Qual foi o primeiro domínio criado?
+symbolics.com, registrado em 15 de março de 1985, é mantido ativo por um investidor
+
+- E qual o primeiro blog?
+O termo "blog", originou se de weblog que surgiu em 17 de dezembro de 1997 e o primeiro site considerado como blog foi o Robot Wisdom, que iniciou suas publicações em fevereiro de 1995
+
+- Qual foi a primeira compra feita pela internet?
+A primeira transação ocorreu no dia 11 de agosto de 1994, em um tecnologia que permitiu encriptar os dados do cartão de crédito.
+A compra foi de um CD de Sting (Ten Summoner's Tales)
+
+- Qual o site mais antigo em atividade?
+O site mais antigo é o symbolics.com e tem como objetivo compartilhar a origem de diversos momentos marcantes que ocorreram ao longo do desenvolvimento da internet
+
+AULA2
