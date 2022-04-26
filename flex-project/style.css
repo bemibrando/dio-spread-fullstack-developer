@@ -1,0 +1,160 @@
+:root{
+    --color-darkblue: #122a57;
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul li a{
+    text-decoration: none;
+}
+
+div img{
+    display: block;
+    width: 100%;
+}
+
+.flex-container{
+    display: flex;
+    max-width: 992px;
+    margin: auto;
+    width: 100%;
+}
+
+header{
+    background-color: var(--color-darkblue);
+    height: 100px;
+    display: flex;
+    align-items: center;
+    color: #fff;
+}
+
+header .list-items{
+    display: flex;
+    max-width: 260px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+.list-items li a{
+    color: #fff;
+}
+header .menu{
+    justify-content: space-between;
+}
+
+.home{
+    height: 100vh;
+    align-items: center;
+    justify-content: space-between;
+}
+.home .home-text{
+    min-height: 200px;
+}
+
+.home-text h1{
+    color: var(--color-darkblue);
+    font-size: 3rem;
+    margin-bottom: .5rem;
+}
+.home-text a{
+    background-color: var(--color-darkblue);
+    color: #fff;
+    text-align: center;
+    border-radius: 2.5rem;
+    width: 220px;
+    display: block;
+    text-decoration: none;
+    height: 3.2rem;
+    line-height: 3rem;
+    margin: .75rem 0;
+}
+
+#about{
+    height: 100vh;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#about h2{
+    font-size: 2rem;
+    color: var(--color-darkblue);
+    display: flex;
+    margin-bottom: 1.25rem;
+}
+
+#about h2::before{
+    content: "";
+    height: 3.2rem;
+    width: .5rem;
+    margin-right: .5rem;
+    background-color: var(--color-darkblue);
+    position: relative;
+}
+
+#about p{
+    margin-bottom: 0.65rem;
+    width: 90%;
+}
+#about img{
+    min-width: 30rem;
+}
+
+.container-outside{
+    background-color: var(--color-darkblue);
+    width: 100%;
+}
+
+#services{
+    flex-direction: column;
+    padding-top: 3.45rem;
+    padding-bottom: 6.26rem;
+}
+#services h2{
+    color: #fff;
+    font-size: 2rem;
+    margin-bottom: 1.25rem;
+}
+
+.list-services{
+    display: flex;
+    justify-content: space-around;
+}
+.list-services .item-service{
+    text-align: center;
+}
+
+.item-service a{
+    width: 15rem;
+    background-color: #fff;
+    border-radius: 2rem;
+    height: 3.5rem;
+    text-align: center;
+    margin-top: 1.25rem;
+    line-height: 3.5rem;
+    padding: .25rem .65rem;
+    color: var(--color-darkblue);
+    font-size: 1rem;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.item-service p{
+    font-weight: 1rem;
+    font-size: 1.15rem;
+    color: #fff;
+    margin-top: 1.25rem;
+}
+
+.item-service img{
+    width: 80%;
+    margin: auto;
+}
