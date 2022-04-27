@@ -1,0 +1,68 @@
+----- Primeiros passos no desenvolvimento web -----
+---->O que é a internet
+--> Introdução ao tema
+
+-> Qual foi o primeiro domínio criado?
+symbolics.com, registrado em 15 de março de 1985, é mantido ativo por um investidor
+
+-> E qual o primeiro blog?
+O termo "blog", originou se de weblog que surgiu em 17 de dezembro de 1997 e o primeiro site considerado como blog foi o Robot Wisdom, que iniciou suas publicações em fevereiro de 1995
+
+-> Qual foi a primeira compra feita pela internet?
+A primeira transação ocorreu no dia 11 de agosto de 1994, em um tecnologia que permitiu encriptar os dados do cartão de crédito.
+A compra foi de um CD de Sting (Ten Summoner's Tales)
+
+-> Qual o site mais antigo em atividade?
+O site mais antigo é o symbolics.com e tem como objetivo compartilhar a origem de diversos momentos marcantes que ocorreram ao longo do desenvolvimento da internet
+
+
+--> Termos-chave
+
+-> Você conhece algum termo que não foi abordado aqui? Alguma gíria, alguma palavra, expressão ou sigla utilizada na internet, nos bate-papos, em jogos online?
+GG - Acrônimo para 'Good Game' que é uma regra de etique informal presente em todos os jogos que possuem um canal de comunicação, onde os jogadores enviam essa sigla no final da partida agradecendo a partida
+
+
+--> A internet atualmente
+-> Na sua vida pessoal, houve alguma mudança em relação ao acesso à internet e ao consumo de dados online? Por exemplo: vídeos, jogos, música, troca de mensagens, compras, alimentação, notícias, cursos....
+Com o acesso à internet e ao consumo de dados online, está sendo possível aprender programação além de conseguir aproveitar diferentes tipos de entretenimento. Descobrir várias coisas que 
+
+----> TCP/IP, portas, roteadores, switches e modems
+-> O Gmail costuma usar portas próprias, que não as padrões de SMTP e POP3. Tente descobrir quais são.
+597 e 995? Não tenho certeza
+
+
+-> O programador que trabalha com a Internet costuma usar bancos de dados, como o MySQL, e, claro, servidor web, como o Apache. Que tal você se adiantar e já descobrir quais são as portas usadas por estes sistemas?
+A porta padrão do MySQL é 3306
+
+----> Celular, internet e outros dispositivos
+-> Na sua vida pessoal, houve alguma mudança em relação ao acesso à Internet e ao consumo de dados online? Por exemplo: vídeos, jogos, música, troca de mensagens, compras, alimentação, notícias, cursos...
+Já respondido
+
+---->Browser, sites,aplicativos e webserver
+--> Browser
+-Entre no site: http:archive.org/web/   Pesquise como eram antigamente os sites mais famosos de hoje em dia
+O que consigo notar comparando os sites, é que antigamente havia uma escassez de interatividade além dos sites serem menos "charmosos", pouca variação de estilo, cores, fontes, etc.
+
+--> Site, aplicativo e e-commerce
+-> Boleto só existe no Brasil. Verdade? Será que algum outro país usa?
+O Brasil é o único país que usa boleto bancário na forma de pagemento
+
+-> Débito é uma invenção brasileira. Será?
+O primeiro cartão de débito, estima-se que foi inventado em meados de 1966 e é usado pelo mundo inteiro
+
+-> Os sites hoje em dia usam sistemas próprios de pagamento ou terceirizados?
+É comum usar sistemas terceirizados de pagamento por se acreditar que é mais barato e além 
+
+-> Faça uma busca quantitativa no Google, veja qual mais aparece: site, aplicativo ou programa (de computador).
+--
+
+----> O que são Stacks
+-> Tente encontrar, na internet, quais são as tecnologias utilizadas em cada stack de grandes empresas (Google, Facebook, IBM, Apple, etc.)
+Facebook teve o front-end desenvolvido em JS e seu back-end, inicialmente com PHP e atualmente com a Hack
+Twitter teve o front-end desenvolvido em JS e seu back-end, estruturado em Ruby, Slaca e C++ além do banco de dados MySQL e i servidor Java
+
+----> LPs e termos
+-> Pesquise um pouco sobre Apache, MySQL e PHP, pois vamos usar na próxima aula para construir nossa primeira aplicação-teste.
+Apache - Programa de computador denominado servidor web. Software que processa as solicitações via HTTP
+MySQL - banco de dados, que armazena todas as informações processadas em um formato inteligível
+PHP - A linguagem de programação que cria conteúdos dinâmicos, além do código ser executado no servidor, impossibilitando o usuário de saber qual era o código fonte
