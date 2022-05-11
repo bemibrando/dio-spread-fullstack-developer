@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap');
+
+:root{
+    --color-dark-blue: #233045;
+    --color-blue: #6897e3;
+    --color-gray-blue: #586c8c;
+
+    --color-white: #f3f3f3;
+}
+
+*{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: var(--color-dark-blue);
+    color: var(--color-blue);
+}
+div{
+    width: 75%;
+}
+
+#addTask{
+    display: flex;
+    justify-content: center;
+}
+#taskName{
+    background-color: var(--color-white);
+}
+
+#addBtn{
+    background-color: var(--color-blue);
+    color: var(--color-dark-blue);
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+#addBtn:hover{
+    background-color: var(--color-gray-blue);
+}
+
+/*#region LIST*/
+span{
+    margin-bottom: .2rem;
+    padding: 0;
+}
+ul{
+    width: 100%;
+    border-style: dotted;
+    justify-content: flex-start;
+    list-style-type: none;
+    min-height: 2.5rem;
+    margin-top: 0;
+    cursor: pointer;
+}
+li{
+    margin: .5rem;
+}
+input{
+    margin: 0 .75rem 0 0;
+    vertical-align: middle;
+    position: relative;
+    top: 0;
+}
+.done{
+    color: var(--color-gray-blue);
+}
+#doneTask{
+    text-decoration: line-through;
+    color: var(--color-gray-blue);
+}
+/*#endregion*/
